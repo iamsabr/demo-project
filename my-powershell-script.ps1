@@ -4,3 +4,5 @@ New-Item my-new-folder -ItemType Directory
 ## this is a second comment
 
 New-Item my-document.md -ItemType File
+
+## this is a third comment
