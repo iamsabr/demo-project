@@ -1,5 +1,7 @@
 ---
 date: 2024-06-20
+type: reference
+system: sql
 ---
 
 This is a basic query in sql which will return all of the items in the specified table.
